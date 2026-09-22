@@ -16,7 +16,7 @@ Full Stack Software Engineer with 2+ years of experience in designing, building,
 - 💼 **Software Engineer** @ [Macmarts India Pvt. Ltd.](https://macmarts.com)
 - 🎓 **Master of Computer Applications (MCA)** from VESIT (8.34 CGPA)
 - 📩 **Email**: [amanskanojiya@gmail.com](mailto:amanskanojiya@gmail.com)
-- 📄 **Resume**: [Download Resume](https://drive.google.com/uc?export=download&id=1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-)
+- 📄 **Resume**: [Download Resume](https://drive.google.com/file/d/16Do3AXjS3QhsAXpuesYhyovlT8wZC7j5/view?usp=drive_link)
 
 ---
 
