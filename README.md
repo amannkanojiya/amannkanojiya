@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aman Kanojiya</h1>
 <h3 align="center">Software Engineer | Full Stack .NET Developer</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20Views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20Views&color=0e75b6&style=flat" alt="kanojiya-aman" />
   </a>
