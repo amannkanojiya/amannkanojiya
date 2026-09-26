@@ -64,7 +64,7 @@ Full Stack Software Engineer with 2+ years of experience in designing, building,
   <a href="https://twitter.com/amannkanojiya" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://instagram.com/amannkanojiya" target="_blank">
+  <a href="https://instagram.com/amanskanojiya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discordapp.com/users/764015022837727232" target="_blank">
