@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack .NET Developer</h3>
 
 <p align="left">
-  <a href="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20Views&color=0e75b6&style=flat">
+  <a href="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20Views&color=0e75b6&style=flat" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20Views&color=0e75b6&style=flat" alt="kanojiya-aman" />
   </a>
 </p>
@@ -13,10 +13,10 @@
 
 Full Stack Software Engineer with 2+ years of experience in designing, building, and scaling microservices-based enterprise applications using **ASP.NET Core Web API**, **Dapper**, and **SQL Server**. Proven track record in full-stack integration, building secure multi-tenant backend architectures, fine-grained RBAC systems, event-driven messaging via **Azure Service Bus**, and crafting dynamic frontend interfaces using **React** and **TypeScript**.
 
-- 💼 **Software Engineer** @ [Macmarts India Pvt. Ltd.](https://macmarts.com)
+- 💼 **Software Engineer** @ <a href="https://macmarts.com" target="_blank" rel="noopener noreferrer">Macmarts India Pvt. Ltd.</a>
 - 🎓 **Master of Computer Applications (MCA)** from VESIT (8.34 CGPA)
-- 📩 **Email**: [amanskanojiya@gmail.com](mailto:amanskanojiya@gmail.com)
-- 📄 **Resume**: [Download Resume](https://drive.google.com/uc?export=download&id=16Do3AXjS3QhsAXpuesYhyovlT8wZC7j5)
+- 📩 **Email**: <a href="mailto:amanskanojiya@gmail.com" target="_blank" rel="noopener noreferrer">amanskanojiya@gmail.com</a>
+- 📄 **Resume**: <a href="https://drive.google.com/uc?export=download&id=16Do3AXjS3QhsAXpuesYhyovlT8wZC7j5" target="_blank" rel="noopener noreferrer">Download Resume</a>
 
 ---
 
@@ -58,16 +58,16 @@ Full Stack Software Engineer with 2+ years of experience in designing, building,
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/aman-kanojiya" target="_blank">
+  <a href="https://linkedin.com/in/aman-kanojiya" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/amannkanojiya" target="_blank">
+  <a href="https://twitter.com/amannkanojiya" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://instagram.com/amanskanojiya" target="_blank">
+  <a href="https://instagram.com/amanskanojiya" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/764015022837727232" target="_blank">
+  <a href="https://discordapp.com/users/764015022837727232" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
